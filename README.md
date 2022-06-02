@@ -26,3 +26,7 @@
  - Create .eslintrc
  - Create .prettierrc
  - Create .generator.js
+
+
+**Result Files**
+https://github.com/roricoco/CreateNextApp_Result
