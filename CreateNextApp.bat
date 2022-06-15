@@ -1,6 +1,6 @@
 @echo off
-title Create Next App v1.0.0
-echo Create Next App v1.0.0
+title Create Next App v1.0.1
+echo Create Next App v1.0.1
 echo.
 echo Includes Packages
 echo  - @types/styled-components
